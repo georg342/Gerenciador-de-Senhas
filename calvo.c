@@ -203,6 +203,10 @@ int getPwd(char apelido[TAMANHO_APELIDO], int func)
     {
         return 2;
     }
+    else if (func == 2)
+    {
+        printf("Nenhuma senha foi cadastrada com este apelido. Verifique os apelidos existentes através da opção \"5\" do menu.\n");
+    }
 }
 
 void listAll(void)
