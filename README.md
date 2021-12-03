@@ -1,5 +1,5 @@
 ### Gerenciador de Senhas 📋🔐
-# ✨Calvo Password Manager Assistent✨
+# ✨Calvo Password Manager Assistant✨
 
 
 
